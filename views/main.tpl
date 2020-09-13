@@ -120,6 +120,8 @@
 <body>
 <div class="wrapper">
 
+<h1>Lady Zenaida</h1>
+
 <div class="player">
 
 <div id="album_art"></div>
